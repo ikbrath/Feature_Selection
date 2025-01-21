@@ -1,6 +1,6 @@
 # Feature_Selection
 
-Praktik penggunaan Seleksi Fitur seputar pengolahan data di Python
+Praktik penggunaan Seleksi Fitur seputar pengolahan data dalam konteks sains data
 
 ![image](https://github.com/user-attachments/assets/50e93ee3-c5cc-430c-a10a-e070308241c1)
 
